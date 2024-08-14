@@ -4,7 +4,7 @@ pipeline {
         // Thay đổi các biến môi trường dưới đây theo thông tin của bạn
         DOCKER_REGISTRY = 'docker.io'  // Địa chỉ Docker registry
         DOCKER_CREDENTIALS_ID = 'docker-hub-credentials'  // ID của Docker Hub credentials trong Jenkins
-        IMAGE_NAME = 'myapp'  // Tên Docker image của bạn
+        IMAGE_NAME = 'social-network'  // Tên Docker image của bạn
         IMAGE_TAG = 'latest'  // Thẻ Docker image của bạn
         COMPOSE_FILE = 'docker-compose.yml'
     }
@@ -13,7 +13,7 @@ pipeline {
             steps {
                 echo 'Cloning repository...'
                 // Clone mã nguồn từ GitHub
-                git url: 'https://github.com/hieuhs3/DemoCi.git', branch: 'main'
+                git url: 'https://github.com/hieuhs3/social-network.git', branch: 'main'
             }
         }
         stage('Build Docker Image') {
