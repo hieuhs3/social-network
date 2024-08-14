@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2CcUI81grA8=",
+  "dgSpecHash": "qCylz1vsq4Q=",
   "success": true,
-  "projectFilePath": "C:\\D\\jenkins\\SocialNetwork\\SocialNetwork\\SocialNetwork.csproj",
+  "projectFilePath": "C:\\D\\social_network\\SocialNetwork\\SocialNetwork.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

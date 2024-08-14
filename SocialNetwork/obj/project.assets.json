@@ -2880,11 +2880,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\D\\jenkins\\SocialNetwork\\SocialNetwork\\SocialNetwork.csproj",
+      "projectUniqueName": "C:\\D\\social_network\\SocialNetwork\\SocialNetwork.csproj",
       "projectName": "SocialNetwork",
-      "projectPath": "C:\\D\\jenkins\\SocialNetwork\\SocialNetwork\\SocialNetwork.csproj",
+      "projectPath": "C:\\D\\social_network\\SocialNetwork\\SocialNetwork.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\D\\jenkins\\SocialNetwork\\SocialNetwork\\obj\\",
+      "outputPath": "C:\\D\\social_network\\SocialNetwork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2902,14 +2902,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\D\\jenkins\\SocialNetwork\\Data\\Data.csproj": {
-              "projectPath": "C:\\D\\jenkins\\SocialNetwork\\Data\\Data.csproj"
+            "C:\\D\\social_network\\Data\\Data.csproj": {
+              "projectPath": "C:\\D\\social_network\\Data\\Data.csproj"
             },
-            "C:\\D\\jenkins\\SocialNetwork\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\D\\jenkins\\SocialNetwork\\Repository\\Repository.csproj"
+            "C:\\D\\social_network\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\D\\social_network\\Repository\\Repository.csproj"
             },
-            "C:\\D\\jenkins\\SocialNetwork\\Services\\Services.csproj": {
-              "projectPath": "C:\\D\\jenkins\\SocialNetwork\\Services\\Services.csproj"
+            "C:\\D\\social_network\\Services\\Services.csproj": {
+              "projectPath": "C:\\D\\social_network\\Services\\Services.csproj"
             }
           }
         }
