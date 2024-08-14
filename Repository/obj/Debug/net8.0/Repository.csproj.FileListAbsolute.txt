@@ -1,0 +1,15 @@
+C:\D\jenkins\SocialNetwork\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\D\jenkins\SocialNetwork\Repository\bin\Debug\net8.0\Repository.dll
+C:\D\jenkins\SocialNetwork\Repository\bin\Debug\net8.0\Repository.pdb
+C:\D\jenkins\SocialNetwork\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\jenkins\SocialNetwork\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\D\jenkins\SocialNetwork\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\D\jenkins\SocialNetwork\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\D\jenkins\SocialNetwork\Repository\obj\Debug\net8.0\Repository.dll
+C:\D\jenkins\SocialNetwork\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\D\jenkins\SocialNetwork\Repository\obj\Debug\net8.0\Repository.pdb
+C:\D\jenkins\SocialNetwork\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\D\jenkins\SocialNetwork\Repository\bin\Debug\net8.0\Data.dll
+C:\D\jenkins\SocialNetwork\Repository\bin\Debug\net8.0\Data.pdb
+C:\D\jenkins\SocialNetwork\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\D\jenkins\SocialNetwork\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
